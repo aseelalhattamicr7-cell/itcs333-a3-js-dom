@@ -4,7 +4,6 @@
 // using event delegation on #todo-list.
 
 // TODO: your code here
-
 const form = document.getElementById("todo-form");
 const input = document.getElementById("todo-input");
 const todoList = document.getElementById("todo-list");
